@@ -72,9 +72,3 @@
 
 - Fork -> tạo branch -> pull request
 - Mô tả rõ thay đổi và ảnh chụp/recording nếu là thay đổi giao diện 3D.
-
-## Hình ảnh (Screenshots)
-
-```markdown
-![Hero screenshot](./3d_portfolio/public/images/demo.png)
-```
