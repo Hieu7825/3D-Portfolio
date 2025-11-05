@@ -76,5 +76,5 @@
 ## Hình ảnh (Screenshots)
 
 ```markdown
-![Hero screenshot](./3d_portfolio/public/images/demo.png)
+![Hero screenshot](/images/demo.png)
 ```
