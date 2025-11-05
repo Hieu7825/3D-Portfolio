@@ -22,10 +22,12 @@
 
 - npm:
   ```bash
+  cd 3d_portfolio
   npm run dev
   ```
 - yarn:
   ```bash
+  cd 3d_portfolio
   yarn dev
   ```
 
@@ -74,5 +76,5 @@
 ## Hình ảnh (Screenshots)
 
 ```markdown
-![Hero screenshot](./public/images/demo.png)
+![Hero screenshot](./3d_portfolio/public/images/demo.png)
 ```
