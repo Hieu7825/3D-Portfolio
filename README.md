@@ -72,3 +72,7 @@
 
 - Fork -> tạo branch -> pull request
 - Mô tả rõ thay đổi và ảnh chụp/recording nếu là thay đổi giao diện 3D.
+
+## Video Demo
+
+[Demo 3D Portfolio](https://drive.google.com/file/d/15mGrOjUXbDutL2ii6IRKQVYtej1bPM3_/view?usp=sharing)

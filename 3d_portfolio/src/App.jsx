@@ -9,7 +9,6 @@ import Skills from "./pages/Skills";
 import ContactQualifications from "./pages/ContactQualifications";
 import SnakeGame from "./pages/SnakeGame";
 import Game2048 from "./pages/Game2048";
-// ... import các pages khác
 
 function App() {
   return (
